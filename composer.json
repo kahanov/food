@@ -4,7 +4,6 @@
     "keywords": ["yii2", "kahanov", "module"],
     "type": "yii2-extension",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Maksim Kahanov",
