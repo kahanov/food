@@ -1,0 +1,28 @@
+{
+    "name": "kahanov/food",
+    "description": "Yii2 food module",
+    "keywords": ["yii2", "kahanov", "module"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Maksim Kahanov",
+            "email": "maksim.kahanov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "kartik-v/yii2-widget-switchinput": "*",
+        "kartik-v/yii2-widget-select2": "dev-master",
+        "la-haute-societe/yii2-save-relations-behavior": "*",
+        "bower-asset/font-awesome": "^4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "kahanov\\food\\": ""
+        }
+    }
+}
