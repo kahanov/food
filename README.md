@@ -1,26 +1,10 @@
 Yii2 food модуль
 =============
 
-Проект не зарегистрирован на  https://packagist.org
-
-Добавьте в файл composer.json
+Запустите
 
 ```
-"require": {
-    "kahanov/food": "dev-master"
-},
-"repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/kahanov/food.git"
-    }
-]
-```
-
-и запустите
-
-```
-composer update
+composer require kahanov/food
 ```
 
 Использование
